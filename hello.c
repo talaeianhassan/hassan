@@ -3,7 +3,7 @@
 
 int main (void)
 {
-    printf ("hello world!");
+    printf ("hello world! adjust");
     printf("good bye world");
     //as'pdljpaskodj
 }
